@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  background-color: dimgrey;
+  /* height: 95.6vh; */
+  padding: 7%;
+  
+}
+
+.userCard h2 {
+
+    font-size: 2rem;
+  
+}
+
+.userCard h3 {
+
+  font-size: 1.5rem;
+
+}
+
+.userCard p {
+
+  font-size: 1.5rem;
+
+}
+
+.link {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: red
+
+}
+
+
+nav {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 37px ;
+  background-color: black;
+}
+
+nav a {
+  color: red;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+.allcards{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: space-around;
+  justify-content: center;
+}
+
+.followerCard {
+  margin: 5%;
+  
+}
